@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Skeleton App</string>
+
+    <string name="requiredField">Campo obligatorio</string>
+    <string name="usernameField">Usuario</string>
+    <string name="passwordField">Contraseña</string>
+    <string name="signupButton">Registro</string>
+    <string name="signInButton">Iniciar</string>
+    <string name="searchMenuItem">Buscar</string>
+    <string name="logoutMenuItem">Salir</string>
+    <string name="greetingString">Hola desde la pantalla principal</string>
+
+</resources>

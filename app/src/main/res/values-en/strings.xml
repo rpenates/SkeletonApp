@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Skeleton App</string>
+    <string name="passwordField">Password</string>
+    <string name="requiredField">Required field</string>
+    <string name="usernameField">Username</string>
+</resources>
